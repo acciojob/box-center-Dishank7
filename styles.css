@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+div{
+	background-color:rgb(175,216,230);
+	color:rgb(129,1,128);
+	border:2px solid black;
+	text-align:center;
+	width:100px;
+	height:30px;
+	margin:auto;
+	align-item:center;
+	padding:110px;
+}
